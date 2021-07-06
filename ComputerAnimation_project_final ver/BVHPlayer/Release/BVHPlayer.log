@@ -1,0 +1,91 @@
+﻿  body.cpp
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\motion\body.cpp(33,12): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+  ccml.cpp
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\motion\ccml.cpp(499,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\motion\ccml.cpp(515,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\motion\ccml.cpp(635,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\motion\ccml.cpp(636,54): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\motion\ccml.cpp(636,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  common.cpp
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\motion\common.cpp(36,10): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  constraint.cpp
+  func.cpp
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\motion\func.cpp(24,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\motion\func.cpp(42,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\motion\func.cpp(65,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\motion\func.cpp(87,42): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\motion\func.cpp(120,40): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\motion\func.cpp(121,38): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\motion\func.cpp(127,57): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\motion\func.cpp(147,40): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\motion\func.cpp(148,38): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\motion\func.cpp(154,57): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  motion.cpp
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\motion\motion.cpp(87,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\motion\motion.cpp(206,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\motion\motion.cpp(262,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\motion\motion.cpp(265,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\motion\motion.cpp(281,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\motion\motion.cpp(285,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  online_retarget.cpp
+  posture.cpp
+  reader.cpp
+  BVHPlayer_main.cpp
+  BVH_Animation.cpp
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BVHPlayer\BVH_Animation.cpp(297,38): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BVHPlayer\BVH_Animation.cpp(310,38): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BVHPlayer\BVH_Animation.cpp(412,40): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BVHPlayer\BVH_Animation.cpp(433,40): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BVHPlayer\BVH_Animation.cpp(488,40): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BVHPlayer\BVH_Animation.cpp(514,38): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BVHPlayer\BVH_Animation.cpp(592,40): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BVHPlayer\BVH_Animation.cpp(633,40): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BVHPlayer\BVH_Animation.cpp(658,38): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BVHPlayer\BVH_Animation.cpp(736,40): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BVHPlayer\BVH_Animation.cpp(777,40): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  ClothSimultation.cpp
+LINK : warning LNK4098: 'LIBCMT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  코드를 생성하고 있습니다.
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\GL4U\GL_RenderableObj.cpp(77): warning C4172: 지역 변수 또는 임시: m의 주소를 반환하고 있습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\GL4U\GL_RenderableObj.cpp(65): warning C4172: 지역 변수 또는 임시: m의 주소를 반환하고 있습니다.
+  All 3426 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+LINK : warning LNK4286: '___glewUseProgram'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_Renderer.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewDeleteBuffers'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_VBOVAO.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewGenBuffers'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_VBOVAO.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewVertexAttribIPointer'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_VBOVAO.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewGenVertexArrays'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_VBOVAO.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewBufferData'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_VBOVAO.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewDeleteVertexArrays'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_VBOVAO.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewBufferSubData'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_VBOVAO.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewBindBuffer'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_VBOVAO.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewVertexAttribPointer'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_VBOVAO.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewBindVertexArray'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_VBOVAO.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewEnableVertexAttribArray'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_VBOVAO.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewUniform3fv'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_ShaderProgram.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewVertexAttrib3d'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_ShaderProgram.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewLinkProgram'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_ShaderProgram.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewUniform4fv'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_ShaderProgram.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewDeleteShader'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_ShaderProgram.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewGetProgramInfoLog'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_ShaderProgram.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewUniformMatrix4fv'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_ShaderProgram.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewShaderSource'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_ShaderProgram.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewDeleteProgram'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_ShaderProgram.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewAttachShader'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_ShaderProgram.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewVertexAttrib2d'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_ShaderProgram.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewGetUniformLocation'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_ShaderProgram.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewUniform1f'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_ShaderProgram.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewVertexAttribI4ui'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_ShaderProgram.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewVertexAttrib4d'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_ShaderProgram.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewGetProgramiv'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_ShaderProgram.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewGetShaderInfoLog'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_ShaderProgram.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewUniform1i'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_ShaderProgram.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewCreateProgram'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_ShaderProgram.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewCreateShader'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_ShaderProgram.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewCompileShader'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_ShaderProgram.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewGetShaderiv'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_ShaderProgram.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewGetUniformiv'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_ShaderProgram.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewTexStorage2D'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_Texture.obj)'이(가) 가져왔습니다.
+LINK : warning LNK4286: '___glewActiveTexture'에 정의된 'glew32s.lib(glew.obj)' 기호를 'BaseLib.lib(GL_Texture.obj)'이(가) 가져왔습니다.
+  BVHPlayer.vcxproj -> D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\Release\BVHPlayer.exe

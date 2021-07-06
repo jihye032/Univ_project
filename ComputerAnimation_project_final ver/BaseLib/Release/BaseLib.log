@@ -1,0 +1,62 @@
+﻿  CmlCamera.cpp
+  CmlExt.cpp
+  AABox.cpp
+  Line.cpp
+  Mesh.cpp
+  MeshHeadModel01.cpp
+  MeshHemisphere.cpp
+  MeshSphere.cpp
+  ObjFileToCArrays.cpp
+  PointSequence.cpp
+  PrimitiveCollision.cpp
+  PrimitiveShape.cpp
+  SolidObject.cpp
+  GL_Material.cpp
+  GL_RenderableObj.cpp
+  GL_Renderer.cpp
+  GL_ResourceManager.cpp
+  GL_ShaderProgram.cpp
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\GL4U\GL_ShaderProgram.cpp(495,65): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\GL4U\GL_ShaderProgram.cpp(507,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\GL4U\GL_ShaderProgram.cpp(530,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\GL4U\GL_ShaderProgram.cpp(532,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\GL4U\GL_ShaderProgram.cpp(534,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\GL4U\GL_ShaderProgram.cpp(536,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\GL4U\GL_ShaderProgram.cpp(538,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  GL_Texture.cpp
+  GL_VBOVAO.cpp
+  컴파일하고 있습니다...
+  Material.cpp
+  body.cpp
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\Motion\body.cpp(33,12): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+  ccml.cpp
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\Motion\ccml.cpp(499,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\Motion\ccml.cpp(515,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\Motion\ccml.cpp(635,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\Motion\ccml.cpp(636,54): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\Motion\ccml.cpp(636,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  common.cpp
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\Motion\common.cpp(36,10): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  constraint.cpp
+  func.cpp
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\Motion\func.cpp(24,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\Motion\func.cpp(42,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\Motion\func.cpp(65,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\Motion\func.cpp(87,42): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\Motion\func.cpp(120,40): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\Motion\func.cpp(121,38): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\Motion\func.cpp(127,57): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\Motion\func.cpp(147,40): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\Motion\func.cpp(148,38): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\Motion\func.cpp(154,57): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  motion.cpp
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\Motion\motion.cpp(87,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\Motion\motion.cpp(206,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\Motion\motion.cpp(262,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\Motion\motion.cpp(265,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\Motion\motion.cpp(281,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\BaseLib\Motion\motion.cpp(285,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  online_retarget.cpp
+  posture.cpp
+  reader.cpp
+  BaseLib.vcxproj -> D:\D드라이브\05 지혜 공부\프로젝트\201321715_이지혜_최종과제 - 복사본\Lib\BaseLib.lib

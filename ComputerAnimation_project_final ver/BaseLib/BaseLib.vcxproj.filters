@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Motion">
+      <UniqueIdentifier>{f07dc788-9eb8-4088-bc70-b41408272b61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphics">
+      <UniqueIdentifier>{92466e19-9d13-4182-aea1-765ab4f2aa42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CmlExt">
+      <UniqueIdentifier>{92b888e8-581c-492f-aa62-0ff17c95822d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GL4U">
+      <UniqueIdentifier>{8ac3a071-d398-4d9c-9adc-b95343aa7044}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Geometry">
+      <UniqueIdentifier>{4a565cdd-0204-40eb-a65d-5cc8db5df14b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Motion\body.cpp">
+      <Filter>Motion</Filter>
+    </ClCompile>
+    <ClCompile Include="Motion\ccml.cpp">
+      <Filter>Motion</Filter>
+    </ClCompile>
+    <ClCompile Include="Motion\common.cpp">
+      <Filter>Motion</Filter>
+    </ClCompile>
+    <ClCompile Include="Motion\constraint.cpp">
+      <Filter>Motion</Filter>
+    </ClCompile>
+    <ClCompile Include="Motion\func.cpp">
+      <Filter>Motion</Filter>
+    </ClCompile>
+    <ClCompile Include="Motion\motion.cpp">
+      <Filter>Motion</Filter>
+    </ClCompile>
+    <ClCompile Include="Motion\online_retarget.cpp">
+      <Filter>Motion</Filter>
+    </ClCompile>
+    <ClCompile Include="Motion\posture.cpp">
+      <Filter>Motion</Filter>
+    </ClCompile>
+    <ClCompile Include="Motion\reader.cpp">
+      <Filter>Motion</Filter>
+    </ClCompile>
+    <ClCompile Include="Graphics\Material.cpp">
+      <Filter>Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="CmlExt\CmlCamera.cpp">
+      <Filter>CmlExt</Filter>
+    </ClCompile>
+    <ClCompile Include="CmlExt\CmlExt.cpp">
+      <Filter>CmlExt</Filter>
+    </ClCompile>
+    <ClCompile Include="GL4U\GL_RenderableObj.cpp">
+      <Filter>GL4U</Filter>
+    </ClCompile>
+    <ClCompile Include="GL4U\GL_Renderer.cpp">
+      <Filter>GL4U</Filter>
+    </ClCompile>
+    <ClCompile Include="GL4U\GL_ResourceManager.cpp">
+      <Filter>GL4U</Filter>
+    </ClCompile>
+    <ClCompile Include="GL4U\GL_ShaderProgram.cpp">
+      <Filter>GL4U</Filter>
+    </ClCompile>
+    <ClCompile Include="GL4U\GL_Texture.cpp">
+      <Filter>GL4U</Filter>
+    </ClCompile>
+    <ClCompile Include="GL4U\GL_VBOVAO.cpp">
+      <Filter>GL4U</Filter>
+    </ClCompile>
+    <ClCompile Include="GL4U\GL_Material.cpp">
+      <Filter>GL4U</Filter>
+    </ClCompile>
+    <ClCompile Include="Geometry\Line.cpp">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="Geometry\Mesh.cpp">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="Geometry\MeshHeadModel01.cpp">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="Geometry\MeshHemisphere.cpp">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="Geometry\MeshSphere.cpp">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="Geometry\ObjFileToCArrays.cpp">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="Geometry\PointSequence.cpp">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="Geometry\PrimitiveCollision.cpp">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="Geometry\PrimitiveShape.cpp">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="Geometry\SolidObject.cpp">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="Geometry\AABox.cpp">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Motion\body.h">
+      <Filter>Motion</Filter>
+    </ClInclude>
+    <ClInclude Include="Motion\ccml.h">
+      <Filter>Motion</Filter>
+    </ClInclude>
+    <ClInclude Include="Motion\common.h">
+      <Filter>Motion</Filter>
+    </ClInclude>
+    <ClInclude Include="Motion\constraint.h">
+      <Filter>Motion</Filter>
+    </ClInclude>
+    <ClInclude Include="Motion\func.h">
+      <Filter>Motion</Filter>
+    </ClInclude>
+    <ClInclude Include="Motion\ml.h">
+      <Filter>Motion</Filter>
+    </ClInclude>
+    <ClInclude Include="Motion\motion.h">
+      <Filter>Motion</Filter>
+    </ClInclude>
+    <ClInclude Include="Motion\online_retarget.h">
+      <Filter>Motion</Filter>
+    </ClInclude>
+    <ClInclude Include="Motion\posture.h">
+      <Filter>Motion</Filter>
+    </ClInclude>
+    <ClInclude Include="Motion\reader.h">
+      <Filter>Motion</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphics\Material.h">
+      <Filter>Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="CmlExt\CmlCamera.h">
+      <Filter>CmlExt</Filter>
+    </ClInclude>
+    <ClInclude Include="CmlExt\CmlExt.h">
+      <Filter>CmlExt</Filter>
+    </ClInclude>
+    <ClInclude Include="GL4U\GL_Material.h">
+      <Filter>GL4U</Filter>
+    </ClInclude>
+    <ClInclude Include="GL4U\GL_RenderableObj.h">
+      <Filter>GL4U</Filter>
+    </ClInclude>
+    <ClInclude Include="GL4U\GL_Renderer.h">
+      <Filter>GL4U</Filter>
+    </ClInclude>
+    <ClInclude Include="GL4U\GL_ResourceManager.h">
+      <Filter>GL4U</Filter>
+    </ClInclude>
+    <ClInclude Include="GL4U\GL_ShaderProgram.h">
+      <Filter>GL4U</Filter>
+    </ClInclude>
+    <ClInclude Include="GL4U\GL_Texture.h">
+      <Filter>GL4U</Filter>
+    </ClInclude>
+    <ClInclude Include="GL4U\GL_VBOVAO.h">
+      <Filter>GL4U</Filter>
+    </ClInclude>
+    <ClInclude Include="GL4U\glslprog.h">
+      <Filter>GL4U</Filter>
+    </ClInclude>
+    <ClInclude Include="Geometry\Line.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="Geometry\Mesh.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="Geometry\PointSequence.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="Geometry\PrimitiveCollision.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="Geometry\PrimitiveShape.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="Geometry\SolidObject.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="Geometry\AABox.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
